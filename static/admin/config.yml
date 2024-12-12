@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: 
+  repo: petervirtech/malaga-padelclinics
   branch: main
   site_domain: malaga-padelclinics.com
 
